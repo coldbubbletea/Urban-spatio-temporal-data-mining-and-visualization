@@ -28,9 +28,8 @@ from threading import Event
 
 
 
-st.write("# City specific spatio-temporal data mining and visualization")
+st.write("# 城市时空数据挖掘与可视化 \n City specific spatio-temporal data mining and visualization")
 cityName = st.text_input(' Please input the name of the city you want to mine data in English or Chinese pinyin，such as  \'macau\', \'zhuhai\'', 'macau')
-st.write('The current movie title is', cityName)
 opt=st.selectbox("选择你想要的时空数据类型", ["drive","walk","all","bike"])
 
 def progressBar(event_1):
