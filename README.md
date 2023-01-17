@@ -10,4 +10,4 @@ If you use OSMnx in your work, please cite the journal article.
 
 ## License
 
-OSMnx is licensed under the MIT license. OpenStreetMap's open data [license](https://www.openstreetmap.org/copyright/) requires that derivative works provide proper attribution.
+USTDMV is licensed under the MIT license. OpenStreetMap's open data [license](https://www.openstreetmap.org/copyright/) requires that derivative works provide proper attribution.
