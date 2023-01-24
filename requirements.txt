@@ -1,2 +1,5 @@
 networkx
 osmnx
+plotly
+pandas
+numpy
