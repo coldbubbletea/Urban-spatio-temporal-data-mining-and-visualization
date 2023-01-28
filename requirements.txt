@@ -3,3 +3,4 @@ osmnx
 plotly
 pandas
 numpy
+lxml
