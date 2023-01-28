@@ -52,7 +52,7 @@ px.set_mapbox_access_token("pk.eyJ1IjoiYnJva2VuY3VwaCIsImEiOiJjbGRhYjh1dDAwaDhzM
 
 st.title("城市时空数据挖掘与可视化")
 st.title("City Spatio-temporal Data Mining and Visualization")
-cityName = st.text_input('在文本框中输入想挖掘的地区/城市，如“澳门大学”，“横琴”，“纽约” Please input the name of the city you want to mine data in English or Chinese pinyin，such as  \'macau\', \'zhuhai\'', 'macau')
+cityName = st.text_input('在文本框中输入想挖掘的地区/城市，如“横琴”，“纽约” Please input the name of the city you want to mine data in English or Chinese pinyin，such as  \'macau\', \'zhuhai\'', 'macau')
 
 opt=st.selectbox("选择你想要的时空数据类型 Select the type of temporal data you want", ["drive","walk","all","bike"])
 
