@@ -23,6 +23,9 @@ Streamlit is completely free and open-source and licensed under the Apache 2.0 l
 ## Author
 Xiubo ZHANG,   University of Macau
 
+## 作者
+张修博， 澳门大学
+
 ## License
 
 USTDMV is licensed under the MIT license. OpenStreetMap's open data [license](https://www.openstreetmap.org/copyright/) requires that derivative works provide proper attribution.
