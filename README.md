@@ -20,11 +20,11 @@ If you use OSMnx in your work, please cite the journal article.
 Streamlit lets you turn data scripts into shareable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use our [Community Cloud platform](https://streamlit.io/cloud) to deploy, manage, and share your app!
 Streamlit is completely free and open-source and licensed under the Apache 2.0 license.
 
-## Author
-Xiubo ZHANG,   University of Macau
-
 ## 作者
 张修博， 澳门大学
+
+## Author
+Xiubo ZHANG,   University of Macau
 
 ## License
 
