@@ -21,7 +21,6 @@ Streamlit lets you turn data scripts into shareable web apps in minutes, not wee
 Streamlit is completely free and open-source and licensed under the Apache 2.0 license.
 
 ## Author
-Prof.Leong Hou U   University of Macau\\
 Xiubo ZHANG   University of Macau
 
 ## License
