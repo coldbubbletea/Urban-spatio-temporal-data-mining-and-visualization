@@ -13,7 +13,7 @@ Provide the road network data of many cities across the country for the use of r
 ## Graph Partitioning
 <p align="center">
   <img src="NYC No.6.png" width="350" title="hover text">
-  <img src="Urban-spatio-temporal-data-mining-and-visualization/图的切分 Graph Partitioning/判断某个经纬度的点是否在某个多边形内 Determine whether a point of latitude and longitude is within a polygon/" width="350" alt="accessibility text">
+  <img src="图的切分 Graph Partitioning/判断某个经纬度的点是否在某个多边形内 Determine whether a point of latitude and longitude is within a polygon/NYC No.6.png" width="350" alt="accessibility text">
 </p>
 
 ## OSMnx
